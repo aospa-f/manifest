@@ -18,6 +18,7 @@
   <project path="packages/apps/BypassCharge" name="aospa-f/packages_apps_BypassCharge" remote="github" revision="sixteen" />
   <project path="packages/apps/GameSpace" name="clo-for-giulia/packages_apps_GameSpace" remote="github" revision="calcite" />
   <project path="packages/apps/LunarisDolby" name="aosp-for-giulia/android_packages_apps_LunarisDolby" remote="github" revision="16" />
+  <project path="packages/apps/LMOFreeform" name="aospa-shadedark/android_packages_apps_LMOFreeform" remote="github" revision="calcite" />
 
   <!-- Vendor -->
   <project path="vendor/oneplus/sm8650-oss" name="aospa-f/vendor_oneplus_sm8650-oss" remote="github" revision="calcite" />
